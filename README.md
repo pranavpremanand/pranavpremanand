@@ -12,10 +12,10 @@
 </h4>
 
 <br>
-:man_technologist: About Me :
+<!-- :man_technologist: About Me : -->
 I am a Full Stack Developer from Kerala, India.
 <br><br>
- :telescope: I’m doing a training program as a Software Developer and contributing to frontend and backend for building web applications.
+<!--  :telescope: I’m doing a training program as a Software Developer and contributing to frontend and backend for building web applications. -->
 <br><br>
 <!-- - :seedling: Exploring Technical Content Writing. -->
 
