@@ -11,12 +11,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
 
-<br>
+<!-- <br> -->
 <!-- :man_technologist: About Me : -->
-I am a Full Stack Developer from Kerala, India.
-<br><br>
+<!-- I am a Full Stack Developer from Kerala, India. -->
+<!-- <br><br> -->
 <!--  :telescope: I’m doing a training program as a Software Developer and contributing to frontend and backend for building web applications. -->
-<br><br>
+<!-- <br><br> -->
 <!-- - :seedling: Exploring Technical Content Writing. -->
 
 <!-- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. -->
