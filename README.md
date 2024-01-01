@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mpranavprem@gmail.com**
 
-- 📄 Know about my experiences [pranavpremanand.netlify.app](pranavpremanand.netlify.app)
+<!-- - 📄 Know about my experiences [pranavpremanand.netlify.app](pranavpremanand.netlify.app) -->
 
 <!--- ⚡ Fun fact **I think I'm funny**-->
 
